@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1724979363 source:e:\sistemas distribuidos\actividad sockects cliente en c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+

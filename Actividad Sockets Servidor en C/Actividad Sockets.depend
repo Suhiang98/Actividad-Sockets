@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1724981061 source:e:\sistemas distribuidos\actividad sockets\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<winsock2.h>
+
